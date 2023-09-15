@@ -3,5 +3,7 @@
 </div>
 
 <div style="width: 100%" align="center">
-  <img src="welcome.svg" style="width: 100%;" alt="Welcome to @grvcoelho's github page">
+  <a href="https://grvcoelho.github.io/arturia">
+    <img src="welcome.svg" style="width: 100%;" alt="Welcome to @grvcoelho's github page">
+  </a>
 </div>
